@@ -9,9 +9,9 @@ var user = ()=> console.log("this is arrow function")
 user();
 
 
+var name = "user name is malik"
 
-
-
+module.exports.name = name;
 
 
 
